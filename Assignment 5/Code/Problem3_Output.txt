@@ -1,0 +1,62 @@
+Below is the tf-idf table:
+-----------------------------------------------------------------------------------------------------
+Total Documents      3425
+-----------------------------------------------------------------------------------------------------
+   Search Query      Documents having term(df)                 N/df                    Log10(N/df)
+-----------------------------------------------------------------------------------------------------
+        weather                             38              3425/38             1.9548769792116343
+         people                            229             3425/229             1.1748250934885565
+      condition                              5               3425/5             2.8356905714924254
+-----------------------------------------------------------------------------------------------------
+
+Below is the term frequency table:
+-----------------------------------------------------------------------------------------------------
+Term                                                weather
+-----------------------------------------------------------------------------------------------------
+Total words(m)       Frequency(f)                   Weather appeared in 38 documents
+-----------------------------------------------------------------------------------------------------
+        22               3           RT psccunygc: From cold and rainy to shorts weather in one afternoon--we march for a weather NewDeal4CUNY in any weather Allin4SUNYCUNY 
+        48               2           ashleyroybal My concern is less than how it does in snow and more how does it do in -40 weather days. My car battery has died a couple times this past winter. When a car relies solely on battery power, will it run in this cold of weather
+        15               2           Im over this cold weather bull shit , bring on the 80 degree weather  alreadyid":"1500922924521476097
+        25               1           this spring weather is fucking up my allergies and it dont help that it be nice one day and cold af the next id":"1500922883866038280
+        11               1           tan123 Man global warming has resulted is some unusually cold weather
+        12               1           soapachu Someone who cant handle cold weather... grew up in Mid Wales 
+        10               1           my baby's warm hugs for today's cold weather
+        28               1           libertybroad BonoDoesLiberty Guys, the weather today was perfect. My game however was total shit. I might as well been playing in snow because I couldnt have done worse 
+        53               1           katx01 catherine___c H'mmm \"global warming\" Malaysia has just had snow Vietnam having it's coolest weather in 40 years. The climate is controlled by ocean currents which in turn are controlled by the Moon amp Sun. No looney-leftie will ever be more powerful than the Sun.  The Sun wins every time
+        33               1           iarmy_prx7 Usually 4  coat over them for me XD  I just need layers to shed because I can't stand cold weather, but warm up quickly  so going -5 to 13 is kinda................
+        14               1           clairesworld4 Snow is bad I couldnt agree more there  we just have windy weather
+        12               1           bro a BUG landed on me please bring back the cold weather
+        15               1           awlivv Our hot and cold weather is killing me rn. Make up your damn mind 
+        49               1           ashleyroybal My concern is less than how it does in snow and more how does it do in -40 weather days. My car battery has died a couple times this past winter. When a car relies solely on battery power, will it run in this cold of weatherid":"1500922876916080644
+        16               1           Weather sudden increase in gusts and snow .  Settled a tiny bit.  ShareYourWeather PEI Canada Canadian PrinceEdwardIsland 
+        40               1           We picked up another good win yesterday in a wild weather game. All our guys played tough through the snow and rain to make it happen. Heres one I banged off the LF fence. source":"Twitter for iPhoneauthor_id":"1260389144439611392id":"1500198200673595393
+        43               1           WINTER WEATHER ADVISORY IN EFFECT FROM 1 AM TO 10 AM EST WEDNESDAY. Snow expected. Total snow accumulations of 2 to 4 inches. For Northwest Pocahontas and Southeast Randolph Counties. Plan on slippery road conditions. The hazardous conditions could impact the morning commute. 
+        28               1           This the kind of weather I LOVE, but its the cold in the morning thats upsetting me cause Im ready to have my feet out WITHOUT getting sick
+        11               1           The weather is cold. Na to lie down for bed sleep. 
+        23               1           Snow always come right after some nice weather making us mad again like come oncreated_at":"2022-03-03T19:53:24.000Zauthor_id":"217597869id":"1499473034218033162
+        21               1           Really sick of this weather lately like either stay cold or stay warm but I cant with the switching upid":"1500923001054711809
+        20               1           RT weedheadsNFT: Well walk this road together, through the storm. Whatever weather, cold or warm. Eminem  Presenting Eminem, SnoopDid":"1500922911385075712
+        24               1           RT ReidLybarger: abc27 NWSWPC On top of the heavy rain and flood potential, severe weather will also be possible. NWSSPC has issued a m
+        27               1           RT KETV: While Tuesday is going to be in the 50s and sunny, winter weather is projected to return to the Omaha area on Wednesday.  Here's
+        26               1           RT Feather_Dancer: Test 10 and bad weather is UGH  I like to think I'm consistent in my inconsistency in drawing the Notalope the same way
+        25               1           RT BitterCheri: airaqua naturally high body temp but my hands and feet are cold most of the time I hate hot weather I really do
+        12               1           RT BTSArmy_47: \"The weather is cold, wear warm clothes and gloves\"  JUNGKOOK: 
+        14               1           Perfect weather, perfect snow, perfect grooming, perfect day source":"Twitter for iPhoneauthor_id":"95763778id":"1500198195816771591
+        24               1           Not sure what omicron or covid i have coz I don't feel sick.. Only flu because the weather so cold .. And little cough..
+        15               1           No way its really boutta snow tmrw after having this nice weather  makes no sense
+        29               1           My latest story for MedillChicago is out I took a look at how homeless people are being forced to seek shelter on the CTA due to the cold weather.  
+        44               1           If you missed the countryfile weather forecast, then here's a summary  Monday - Cold and dry Tuesday - Cold and windy Wednesday - Rain Thursday - Showers Friday - Windy with showers   Take the chance to get outside when you can it does wonders for your mental health 
+        43               1           How exactly will the F-35 help with Arctic security Its range is pretty limited for that purpose. Its basing and support for cold weather are pretty expensive. Certainly not the best platform for Arctic air defense. Range and reliability should be key. 
+         6               1           How Far South Could Wintry Weather 
+        22               1           ErieGreenDeep  Bright sunny, but cold here in the eastern Sierra foothills  just the beginning taste of spring and perfect hot tub weather 
+        11               1           Environment Canada weather advisory urges motorists to be cautious this afternoon 
+        27               1           Dry conditions today will give way to snow tomorrow. Be sure to watch this installment of Erich's Weather Outlook for the details on timing and impacts   
+        51               1           Captaincoby00 It depends on where you live and how long your growing season is. You might want to check what you want to growgermination timetime from seed to harvest. As soon as stuff starts popping out of the ground, you can plant cold weather things like peas.  Have fun with it.
+-----------------------------------------------------------------------------------------------------
+
+Below is the tweet which has the highest relative frequency (f/m):
+-----------------------------------------------------------------------------------------------------
+Tweet: How Far South Could Wintry Weather 
+Relative Frequency: 0.16666666666666666
+-----------------------------------------------------------------------------------------------------
